@@ -1,0 +1,4 @@
+
+- 'eotheal:heal' must be used BEFORE eotheal's 'tick' time.
+    - meaning that dependent packs must specify eotheal's 'tick' as AFTER.
+    - also, 'eotheal:heal' probably wont work with functions ran at advancement time.
