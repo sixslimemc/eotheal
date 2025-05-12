@@ -3,4 +3,5 @@
 # ./initiate AS [target]
 #--------------------
 
-$attribute @s generic.max_health modifier add eotheal:heal $(max_mod) add_value
+$attribute @s max_health modifier add eotheal:heal $(max_mod) add_value
+$say $(max_mod)
