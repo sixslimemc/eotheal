@@ -5,7 +5,7 @@
 
 data modify storage slimecore:in manifest.pack set value "eotheal"
 data modify storage slimecore:in manifest.version set value {major:1, minor:0, patch:0}
-data modify storage slimecore:in manifest.display.name set value "End-of-Tick Heal (Lib)"
+data modify storage slimecore:in manifest.display.name set value "End-of-Tick Heal"
 data modify storage slimecore:in manifest.display.summary set value "TODO"
 data modify storage slimecore:in manifest.url.this set value "TODO"
 data modify storage slimecore:in manifest.author set value {name:"SixSlime", url:"https://github.com/sixslime"}
